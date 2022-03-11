@@ -1,0 +1,27 @@
+.contexts_list{
+  list-style-type: none;
+  padding-left: 16px;
+  
+  color: white;
+}
+
+.contexts_list li a {
+  text-decoration: none;
+  color: white;
+  padding: 35px 35px;
+  margin-top: 12px;
+  margin-right: 15px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease all;
+  margin-left: 5px;
+  font-family: 'Arial', Times; /* A fonte Arial Black não funcionou*/
+  
+} 
+
+.reference {
+  justify-items: center; /*Elementos centralizada*/
+  text-align: center;
+  font-size: 24px;
+  padding-top: 12px;
+}
