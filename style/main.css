@@ -1,6 +1,6 @@
 :root {
   /* https://developer.mozilla.org/pt-BR/docs/Web/CSS/:root */
-  --vermelho: #e50914;
+  --vermelho: #185f99;
   --preta: #141414;
 }
 
@@ -46,16 +46,15 @@ header nav a:hover {
 /* Filme principal */
 .filme-principal {
   font-size: 16px;
-  background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/capa-house.jpg'); /* Referenciar a imagem com url*/
+  background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/UFVJM.jpg'); /* Referenciar a imagem com url*/
 
-  height: 1000px; /*Tamanho pra caixa*/ /*Alterei para 1000px pois o box cobria o filme principal*/
+  height: 750px; /*Tamanho pra caixa*/ 
   background-size: cover; /*Cobrir área da caixa*/
 
   display: flex;
   flex-direction: column;
   justify-content: center; /*Elementos centralizada*/
-  align-items: flex-start;
-
+  
 }
 
 .filme-principal .descricao {
