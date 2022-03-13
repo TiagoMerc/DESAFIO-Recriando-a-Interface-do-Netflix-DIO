@@ -16,7 +16,7 @@ Porque a UFVJM foi e está sendo a base para o meu aprendizado acadêmico, pesso
 
 2. Foi criado duas estrutura de carrosel com as mesmas configurações básicas.
 
-3. Coloquei a tag "<hr>" para quebrar um tópico.
+3. Coloquei a tag "hr" para quebrar um tópico.
 
 4. Defini um rodapé para a página como forma de deixar as referências usadas nesse desafio.
   - Meu e-mail
